@@ -1,14 +1,14 @@
-<!-- Banner principal -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola%20soy%20Agustin%20👋&fontSize=40&fontAlignY=35)
+<!-- Main Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Agustin%20👋&fontSize=40&fontAlignY=35)
 
 # 💻 Full Stack Developer  
 
-🚀 **Apasionado por la tecnología y el desarrollo de software**, enfocado en crear soluciones funcionales y escalables.  
-🔍 Siempre aprendiendo y perfeccionando mis habilidades para construir aplicaciones robustas y con una excelente experiencia de usuario.
+🚀 **Passionate about technology and software development**, focused on building functional and scalable solutions.  
+🔍 Always learning and refining my skills to create robust applications with exceptional user experiences.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,33 +22,35 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
-- **NestJS** (Arquitectura y buenas prácticas)
+## 📚 Currently Learning
+
+- **NestJS** (Architecture & Best Practices)
 - **UI/UX Design**
-- **Optimización de rendimiento web**
+- **Web Performance Optimization**
 
 ---
 
-## 🚀 Proyectos destacados
-- **Plataforma de selección de personal** – *Angular + NestJS*  
-- **Sistema de Tesorería para agrupación de árbitros** – *PyQt5 + API*  
-- **Optimización de rendimiento web en Ezoic**  
+## 🚀 Featured Projects
+
+- **Personnel Selection Platform** – *Angular + NestJS*  
+- **Treasury Management System for Referees Association** – *PyQt5 + API*  
+- **Web Performance Optimization with Ezoic**  
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustindardanelli-stack&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustindardanelli-stack&layout=compact&theme=radical)
 
-
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-dardanelli-250198281/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agusdardanelli16@gmail.com)
 
 ---
 
-<!-- Footer animado -->
+<!-- Animated Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
